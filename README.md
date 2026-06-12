@@ -44,10 +44,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>
 
-<a href="https://www.kaggle.com/haroonm56" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40" alt="Kaggle" />
-</a>
-
 <a href="mailto:haroonm101010@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
 </a>
