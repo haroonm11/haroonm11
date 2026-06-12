@@ -6,50 +6,58 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Projects;Machine+Learning+Developer;Big+Data+with+Hadoop+and+PySpark;Power+BI+and+Tableau+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=haroonm11&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<br><br>
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haroonm11&theme=algolia&column=4&margin-w=15&margin-h=15" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=haroonm11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=haroonm11&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 📊 Passionate about Data Science and Machine Learning
-* ⚡ Exploring Big Data technologies using Hadoop and PySpark
-* 🧠 Building predictive models and analytical dashboards
-* 📈 Creating interactive visualizations with Power BI and Tableau
-* 💻 Developing data driven applications using Streamlit
-* 🎯 Seeking opportunities in Data Science and Analytics
+* 📊 Passionate about Data Science, Machine Learning, and Analytics
+* 🔍 Skilled in data cleaning, exploratory data analysis, and feature engineering
+* 🤖 Experienced in machine learning experimentation and model evaluation
+* 📈 Interested in transforming complex data into actionable insights through visualization
+* ⚡ Familiar with big data concepts and distributed data processing
+* 📝 Strong analytical, research, and problem solving abilities
+* 🧠 Continuously expanding knowledge in emerging data science techniques
+* 🎯 Seeking opportunities in Data Science, Machine Learning, and Analytics
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/haroon-m-aa051a3a2" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+
+<a href="https://linkedin.com/in/haroon-m-aa051a3a2" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
 </a>
 
-<a href="https://www.kaggle.com/haroonm56" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40" />
+<a href="https://www.kaggle.com/haroonm56" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40" alt="Kaggle" />
 </a>
 
 <a href="mailto:haroonm101010@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
 </a>
+
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Programming and Data Science
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,opencv" />
@@ -59,45 +67,50 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,hadoop,streamlit,jupyter" />
 </p>
 
+### Data Visualization and Analytics
+
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+
 </p>
-
----
-
-## 📌 Featured Projects
-
-| Project                           | Description                                    |
-| --------------------------------- | ---------------------------------------------- |
-| 🌫️ Air Quality Prediction System | Machine Learning model for AQI prediction      |
-| 📊 Pollution Analytics Dashboard  | Interactive Power BI dashboard using CPCB data |
-| ⚡ Hadoop and PySpark Analysis     | Big Data processing and analysis workflows     |
-| 🖥️ Streamlit Applications        | End to end data science web applications       |
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haroonm11&show_icons=true&theme=tokyonight&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonm11&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haroonm11&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonm11&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonm11&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroonm11&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haroonm11&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 💡 Quote
 
+<div align="center">
+
 > "Turning data into decisions through analysis, visualization, and machine learning."
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 😊
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:38bdae&height=120&section=footer" />
 
 </div>
