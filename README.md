@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+Projects;Machine+Learning+Developer;Big+Data+with+Hadoop+and+PySpark;Power+BI+and+Tableau+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=haroonm11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 <div align="center">
@@ -24,14 +20,14 @@
 
 ## 👨‍💻 About Me
 
-* 📊 Passionate about Data Science, Machine Learning, and Analytics
-* 🔍 Skilled in data cleaning, exploratory data analysis, and feature engineering
-* 🤖 Experienced in machine learning experimentation and model evaluation
-* 📈 Interested in transforming complex data into actionable insights through visualization
-* ⚡ Familiar with big data concepts and distributed data processing
-* 📝 Strong analytical, research, and problem solving abilities
-* 🧠 Continuously expanding knowledge in emerging data science techniques
-* 🎯 Seeking opportunities in Data Science, Machine Learning, and Analytics
+- 📊 Passionate about Data Science, Machine Learning, and Analytics
+- 🔍 Skilled in data cleaning, exploratory data analysis, and feature engineering
+- 🤖 Experienced in machine learning experimentation and model evaluation
+- 📈 Interested in transforming complex data into actionable insights through visualization
+- ⚡ Familiar with big data concepts and distributed data processing
+- 📝 Strong analytical, research, and problem solving abilities
+- 🧠 Continuously expanding knowledge in emerging data science techniques
+- 🎯 Seeking opportunities in Data Science, Machine Learning, and Analytics
 
 ---
 
@@ -69,7 +65,7 @@
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 
@@ -107,6 +103,11 @@
 
 ### Thanks for visiting my profile! 😊
 
+<img src="https://komarev.com/ghpvc/?username=haroonm11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:38bdae&height=120&section=footer" />
 
 </div>
+
