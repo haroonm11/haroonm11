@@ -67,8 +67,6 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,hadoop,streamlit,jupyter" />
 </p>
 
-### Data Visualization and Analytics
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
