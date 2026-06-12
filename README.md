@@ -23,7 +23,7 @@ Building projects in Data Science, Machine Learning, Big Data, and Analytics.
 - 📊 Interested in **Data Science, Predictive Analytics, and AI**
 - 🏗️ Building projects using **Python, Hadoop, SQL, and Streamlit**
 - 🎯 Goal: Start my career as a **Data Scientist**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **haroonm101010@gmail.com**
 
 ---
 
