@@ -57,8 +57,6 @@
 
 ## 🛠️ Tech Stack
 
-### Programming and Data Science
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,opencv" />
 </p>
