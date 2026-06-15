@@ -106,7 +106,13 @@
 
 ### Thanks for visiting my profile! 😊
 
+
 <img src="https://komarev.com/ghpvc/?username=haroonm11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<p align="center">
+<a href="https://github.com/haroonm11?tab=followers">
+<img src="https://img.shields.io/github/followers/haroonm11?label=Followers&style=for-the-badge&color=38BDF8&logo=github" alt="GitHub Followers" />
+</a>
 
 <br><br>
 
