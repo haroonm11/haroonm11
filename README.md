@@ -38,7 +38,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/haroon-m-aa051a3a2" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
